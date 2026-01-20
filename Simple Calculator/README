@@ -1,0 +1,82 @@
+Simple Calculator
+A clean, modern calculator application built with Python and Tkinter. This calculator supports basic arithmetic operations with a sleek dark theme interface.
+
+Features
+Basic arithmetic operations (+, -, ×, ÷)
+
+Percentage calculations
+
+Decimal point operations
+
+Positive/negative toggle
+
+Keyboard support
+
+Clean dark theme interface
+
+Error handling for edge cases
+
+Installation
+Make sure you have Python 3.6 or higher installed
+
+Tkinter should come with standard Python installations
+
+How to Run
+Save the code as calculator.py
+
+Open terminal/command prompt
+
+Navigate to the file location:
+
+bash
+cd path/to/folder
+Run the program:
+
+bash
+python calculator.py
+or
+
+bash
+python3 calculator.py
+Usage
+Click buttons with mouse or use keyboard
+
+Use 'C' to clear everything
+
+Use '⌫' to delete last digit
+
+Use '+/-' to toggle positive/negative
+
+Use '%' for percentage calculations
+
+Keyboard Shortcuts
+Numbers: 0-9
+
+Operators: +, -, *, /
+
+Decimal: .
+
+Equals: Enter or =
+
+Clear: Escape or Delete
+
+Backspace: Backspace
+
+Troubleshooting
+If you get "Python is not recognized":
+
+Install Python from python.org
+
+Check "Add Python to PATH" during installation
+
+Restart terminal after installation
+
+If you get "No module named 'tkinter'":
+
+Linux: sudo apt-get install python3-tk (Ubuntu/Debian)
+
+Project Structure
+calculator.py - Main application file
+
+License
+MIT License
